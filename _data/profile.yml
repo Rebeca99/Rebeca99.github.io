@@ -4,7 +4,7 @@ navbar_name: "Rebeca Ianov"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
+  name: Consultant Intern
 - name: Position 2 without logo
 
 
@@ -32,9 +32,19 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Peking University
+- name: Unviesity of Cambridge
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
+  position: PhD in Cognitive Neuroscience
+  date: Oct. 2022 - Present
+
+- name: Unviesity of Cambridge
+  logo: /assets/images/badges/PKU_red.png
+  position: MPhil in 
+  date: Sep. 2017 - Jul. 2021
+
+- name: Unviesity of Cambrudge
+  logo: /assets/images/badges/PKU_red.png
+  position: BSc in Biological Sciences
   date: Sep. 2017 - Jul. 2021
 
 # experience:
