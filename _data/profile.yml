@@ -4,8 +4,8 @@ navbar_name: "Rebeca Ianov"
 
 positions:
 - logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACPklEQVR4AW2SA3MlQRSF8yfWW1hb4dq2bVuxbdu2bdu27WSyLu9JTz/0C27VTOPc/rovpABIqV07i4SHFxH16BIiH5LvzlnEmGjA3dsfHj7+iLU3Q+Tds4giGu8TT3ztH14Ff5YCIu+dw/SqHeC2ydBvevVONOh8hMiaHPSJvpPpZF54/QQDECoVkL+UftNbpNFprioGtLiagtslK9SXgdsphwLyokUAy6gTt1kGg3ZaYsBwsBO4HRRAvwUAPj5uNQlhqwy9nQ+nRuuDGFBlo8s/m2oc+fgQC64dZ4BY7a/4Y/QZfy2V8Y98f82+o8beAAXeNij2tUOdkxH+misy3fQbyowUGcDd0xvzLdZClT73f95SlOo8W6AHBYcygIubxwKHKDMl/jDNS9kiAP+AQMkQvuCPMQnBQhH/rJRICF/R6GyI8hAXVAU7o9HVmGjfSAiKgs/0KwnhOwOkPL4kSCJNkgydtxt9g8i6PM3JniiJMnSef10iicXqb8Bt2MPKREraTG4QWb2jIbg9EmXcLI3k17cYIMndFt17pEnMzGHSRV8MmI50A7ddRpzUwS27kWRryADtHZ1IVH6F0U27MSOjQJumUqIPSi00wUnLY0ZOARNrdyHp4wNUVtUwAG/VNXVIM1ZB68n9JMZtmHDQFgPGgh1II21HxxEFpOp8QnFpGT0kCaA2Nc0hJTwYmR/vo9vdWAzoDXdD1vs7SA7ywejYOD2wCIDZ0PAIYqOjERZBvkjyhYaip6eHOUoAZgGm9bySfKDqEAAAAABJRU5ErkJggg==  # Logo is optional
-  name: PhD Student
-- name: Position 2 without logo
+  name: PhD Student @ University of Cambridge
+#- name: Position 2 without logo
 
 
 email: "rai28@cam.ac.uk"
@@ -47,11 +47,11 @@ education:
   position: BSc in Biological Sciences
   date: Sep. 2017 - Jul. 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Consulting Co
+   logo: /assets/images/badges/PKU_red.png
+   date: Sep. 2019 - Jul. 2021
+   position: Consulting Intern
 
 
 awards:
